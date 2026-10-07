@@ -1,2 +1,2 @@
 # Test_Project
-Test om GitHub te leren
+Test project to learn GitHub.
